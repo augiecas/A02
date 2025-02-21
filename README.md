@@ -49,4 +49,5 @@ Repository - A repository is the most basic element of GitHub. They're easiest t
 # Sources
 Arthur H. Hendela. "Introduction to Github and Webstorm." (Powerpoint Shared in Canvas)
 
-“GitHub Glossary - GitHub Docs.” GitHub Docs, docs.github.com/en/get-started/learning-about-github/github-glossary.
+“GitHub Glossary - GitHub Docs.” GitHub Docs, docs.github.com/en/get-started/learning-about-github/github-glossary
+
